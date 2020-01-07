@@ -1,0 +1,2 @@
+main()
+   initializeStack //stack is queue, needs push and pop functions
